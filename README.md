@@ -1,3 +1,3 @@
 # gulp
 
-My first work on gulp programm, but my task (change file sass on css doesnt work) i dont know really why?
+My first work on gulp programm, convert scss file into css and added function image-min
